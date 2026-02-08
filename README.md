@@ -49,16 +49,8 @@ portfolio-website/
 └── README.md
 
 
-
-
 ---
 
-## 📸 Projects
-
-The projects section displays screenshots of recent work using a carousel layout.  
-You can update the images anytime to showcase new projects.
-
----
 
 ## 🧑‍💻 Author
 
