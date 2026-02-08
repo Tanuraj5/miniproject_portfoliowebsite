@@ -31,21 +31,14 @@ The website focuses on a clean layout, smooth navigation, and responsive design.
 
 portfolio-website/
 
-
 ├── index.html
-
 
 ├── style.css
 
-
 ├── img/
-
 │ ├── project-1.png
-
 │ ├── project-2.png
-
 │ └── project-3.png
-
 └── README.md
 
 
@@ -67,12 +60,6 @@ Frontend Developer
 
 Passionate about building clean, responsive, and user-friendly web interfaces.
 
----
-
-## 📬 Contact
-
-- 📧 Email: contact@gmail.com  
-- 📞 Phone: 0123456789  
 
 ---
 
