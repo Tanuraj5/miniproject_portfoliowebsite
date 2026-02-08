@@ -1,0 +1,71 @@
+# 🌐 Personal Portfolio Website
+
+This is a personal portfolio website created to showcase my profile, skills, services, and projects.  
+The website focuses on a clean layout, smooth navigation, and responsive design.
+
+---
+
+## 🚀 Features
+
+- Responsive navigation bar
+- Hero section with personal introduction
+- About Me section
+- Services section with cards
+- Skills section with progress indicators
+- Projects section with image carousel
+- Contact section with form and contact details
+- Modern and minimal UI
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+- JS
+
+---
+
+## 📂 Project Structure
+
+portfolio-website/
+├── index.html
+├── style.css
+├── img/
+│ ├── project-1.png
+│ ├── project-2.png
+│ └── project-3.png
+└── README.md
+
+
+
+
+---
+
+## 📸 Projects
+
+The projects section displays screenshots of recent work using a carousel layout.  
+You can update the images anytime to showcase new projects.
+
+---
+
+## 🧑‍💻 Author
+
+**Tanuraj**  
+Frontend Developer  
+
+Passionate about building clean, responsive, and user-friendly web interfaces.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: contact@gmail.com  
+- 📞 Phone: 0123456789  
+
+---
+
+## 📄 License
+
+This project is open for learning and personal use.
