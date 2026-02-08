@@ -30,12 +30,22 @@ The website focuses on a clean layout, smooth navigation, and responsive design.
 ## 📂 Project Structure
 
 portfolio-website/
+
+
 ├── index.html
+
+
 ├── style.css
+
+
 ├── img/
+
 │ ├── project-1.png
+
 │ ├── project-2.png
+
 │ └── project-3.png
+
 └── README.md
 
 
