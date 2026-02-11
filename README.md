@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+## 🌐 Personal Portfolio Website
 
 This is a personal portfolio website created to showcase my profile, skills, services, and projects.  
 The website focuses on a clean layout, smooth navigation, and responsive design.
@@ -31,22 +31,18 @@ The website focuses on a clean layout, smooth navigation, and responsive design.
 
 portfolio-website/
 
-├── index.html
+├── index.html  
+├── style.css  
+├── img/  
 
-├── style.css
-
-├── img/
-
-│ ├── project-1.png
- 
-
-│ ├── project-2.png
-
-
-│ └── project-3.png
-
-
-└── README.md
+│   
+├── screenshot-1.png   
+│   
+├── screenshot-2.png    
+│   
+└── screenshot-3.png  
+│   
+└── README.md  
 
 
 ---
@@ -54,7 +50,7 @@ portfolio-website/
 
 ## 🧑‍💻 Author
 
-**Tanuraj**  
+**The expeditioners**  
 Frontend Developer  
 
 Passionate about building clean, responsive, and user-friendly web interfaces.
@@ -65,3 +61,6 @@ Passionate about building clean, responsive, and user-friendly web interfaces.
 ## 📄 License
 
 This project is open for learning and personal use.
+
+
+---
